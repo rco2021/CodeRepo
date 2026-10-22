@@ -11,3 +11,5 @@ const user: User = {
 console.log(user.id);
 console.log("hi guys");
 console.log("me again");
+
+console.log("MY FIRST CHECKOUT !!!");
